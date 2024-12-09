@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732714916499,
+  "timestamp": 1733707838075,
   "index": "/pickleball/index.html",
   "assetGroups": [
     {
@@ -81,7 +81,7 @@
     "/pickleball/favicon.ico": "7a9cb05552cbd02f1e1588fcecb72d818a299dee",
     "/pickleball/index.html": "1d2fe7a4ac9f2918b0f82ce6bc6bacb2f82e7fc8",
     "/pickleball/main.46dc6d2c155112d2.js": "f069376bc5e628f496f5a22c69e87a582a9805fc",
-    "/pickleball/manifest.webmanifest": "4bf925a657946ae8a3cd2a61739e64152604884b",
+    "/pickleball/manifest.webmanifest": "8e6f42df19a8fae845cfc637be931b19fd296089",
     "/pickleball/polyfills.9352ce6aa3c06102.js": "ab8262720d63e05e657e983724d8831c2d810c80",
     "/pickleball/runtime.12870faad1d0bdfd.js": "bfefeb73c4cf42995b9b81a2d1d80d4ea4def511",
     "/pickleball/scripts.d90277730e222d77.js": "0d05d96ea02a86c036bb044b6a9ccbd44285138c",
